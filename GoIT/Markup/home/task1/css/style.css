@@ -1,11 +1,11 @@
 
 #wrapper{
-	 
 	 margin: 0 auto;
 	 width: 512px; 
 	 height: 752px;
 	 background: #ffffff;
-     box-shadow: 0 0 4px rgba(0,0,0,0.3);
+         box-shadow: 0 0 4px rgba(0,0,0,0.3);
+
 }
 
 
@@ -17,57 +17,46 @@
 
 
 .list{
-
-    padding-left: 82px;
+        padding-left: 82px;
 	font-size: 18px;
 	padding-top: 10px;
 	line-height: 1.45em; 
 }
 
 
-
-body {
+body{
 	background: #eeeeee;
 	
 }
 
 
-
-
 h2{
-	
-    text-align: center;
-    padding-top: 48px;
+	text-align: center;
+        padding-top: 48px;
 }
-
-
 
 
 img{
-
 	display: block;
 	margin-left: auto;
-    margin-right: auto;
-    margin-bottom: -6px;
+        margin-right: auto;
+        margin-bottom: -6px;
 }
 
 
-
-.line {
-   width: 412; 
-   text-align: center;
-   size: 1;
+.line{
+       width: 412; 
+       text-align: center;
+       size: 1;
 }
 
 
-
-div.info  {
-	margin-top: 40px;
-	margin-bottom: 18px;
+.info{
+       margin-top: 40px;
+       margin-bottom: 18px;
 }
 
 
-
-div.info > p {
-	margin-top: -14px;
+.info > p{
+       margin-top: -14px;
 }
